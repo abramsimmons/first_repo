@@ -1,3 +1,5 @@
 This is my third text file.
 
-Changed this baby up...BAM!!
+Changed this baby up -- BAM!!
+
+Here we go again...
